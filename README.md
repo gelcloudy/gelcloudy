@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analytics, C Programming and Finance 
 - 🌱 I’m currently learning Python programming, basic react native, tableau, and data science.
 - 💞️ I’m looking to collaborate on school projects.
-- 📫 How to reach me: thru FB lol
+- 📫 How to reach me: thru LinkedIn
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I don't play First Person POV Games. I have motion sickeness.
 
